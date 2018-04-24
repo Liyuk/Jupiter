@@ -1,5 +1,1 @@
-这是一个用来存储部分lodash/underscore的基础扩展的实现库
-
-可以理解为基础方法的实现库
-
-没事儿写着玩
+Jupiter is an atomic method library modeled on the lodash and the underscore, extending the basic array, function, string, object, and some strange hack techniques.
